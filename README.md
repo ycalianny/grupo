@@ -50,7 +50,7 @@ background-color: #39A9CB
 
 <h3><a name="topico2">Desafios</a></h3>
 <ul>
-	<li><a href="desafio1.html">desafio 1</a>
+	<li><a href="https://github.com/ycalianny/desafio#desafio">desafio 1</a>
 <hr>
 
 
